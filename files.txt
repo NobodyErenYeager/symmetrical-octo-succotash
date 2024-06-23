@@ -1,0 +1,81 @@
+01 - Course Introduction
+	(1280, 720) | 02 - Introduction.mp4
+	(1280, 720) | 03 - Course Curriculum Overview.mp4
+	(1280, 720) | 04 - Overview Of Databases.mp4
+	(1280, 720) | 06 - Windows Installation PostGreSQL and PgAdmin with Database Setup.mp4
+	(1280, 720) | 07 - Macos Installation Postgresql And Pgadmin With First Query.mp4
+	(1280, 720) | 08 - Pgadmin Overview.mp4
+02 - SQL Statement Fundamentals
+	(1280, 720) | 01 - Overview Of Challenges.mp4
+	(1280, 720) | 03 - Sql Statement Fundamentals.mp4
+	(1280, 720) | 04 - SELECT Statement.mp4
+	(1280, 720) | 05 - Challenge SELECT.mp4
+	(1280, 720) | 06 - SELECT DISTINCT.mp4
+	(1280, 720) | 07 - Challenge SELECT DISTINCT.mp4
+	(1280, 720) | 08 - COUNT.mp4
+	(1280, 720) | 09 - Select Where Part One.mp4
+	(1280, 720) | 10 - SELECT WHERE Part Two.mp4
+	(1280, 720) | 11 - Challenge SELECT WHERE.mp4
+	(1280, 720) | 12 - ORDER BY.mp4
+	(1280, 720) | 13 - LIMIT.mp4
+	(1280, 720) | 14 - Challenge ORDER BY.mp4
+	(1280, 720) | 15 - Between.mp4
+	(1280, 720) | 16 - IN.mp4
+	(1280, 720) | 17 - Like And Ilike.mp4
+	(1280, 720) | 18 - General Challenge 1.mp4
+03 - GROUP BY Statements
+	(1280, 720) | 01 - Introduction to GROUP BY.mp4
+	(1280, 720) | 02 - Aggregation Functions.mp4
+	(1280, 720) | 03 - GROUP BY Part One.mp4
+	(1280, 720) | 04 - GROUP BY Part Two.mp4
+	(1280, 720) | 05 - Group By Challenge.mp4
+	(1280, 720) | 06 - HAVING.mp4
+	(1280, 720) | 07 - HAVING Challenge Tasks.mp4
+04 - Assessment Test 1
+	(1920, 1080) | 01 - Overview of Assessment Test 1.mp4
+05 - JOINS
+	(1280, 720) | 02 - Introduction to JOINs.mp4
+	(1280, 720) | 03 - AS Statement.mp4
+	(1280, 720) | 04 - Inner Joins.mp4
+	(1280, 720) | 05 - Full Outer Joins.mp4
+	(1280, 720) | 06 - Left Outer Join.mp4
+	(1280, 720) | 07 - Right Joins.mp4
+	(1280, 720) | 08 - Union.mp4
+	(1280, 720) | 09 - Join Challenge Tasks.mp4
+06 - Advanced SQL Commands
+	(1280, 720) | 01 - Overview of Advanced SQL Commands.mp4
+	(1280, 720) | 02 - Timestamps and Extract Part One.mp4
+	(1280, 720) | 03 - Timestamps And Extract Part Two.mp4
+	(1280, 720) | 05 - Timestamps and Extract Challenge Tasks.mp4
+	(1280, 720) | 06 - Mathematical Functions and Operators.mp4
+	(1280, 720) | 07 - String Functions And Operators.mp4
+	(1280, 720) | 08 - SubQuery.mp4
+	(1280, 720) | 09 - Selfjoin.mp4
+07 - Assessment Test 2
+	(1280, 720) | 02 - Setting Up New Database For Assessment Exercises.mp4
+	(1280, 720) | 04 - Solutions To Assessment Test 2.mp4
+08 - Creating Databases and Tables
+	(1280, 720) | 01 - Introduction To Section.mp4
+	(1280, 720) | 02 - Data Types.mp4
+	(1280, 720) | 03 - Primary Keys And Foreign Keys.mp4
+	(1280, 720) | 04 - Constraints.mp4
+	(1280, 720) | 05 - CREATE Table.mp4
+	(1280, 720) | 06 - INSERT.mp4
+	(1280, 720) | 07 - Update.mp4
+	(1280, 720) | 08 - Delete.mp4
+	(1280, 720) | 09 - ALTER Table.mp4
+	(1280, 720) | 10 - Drop Table.mp4
+	(1280, 720) | 11 - Check Constraint.mp4
+09 - Assessment Test 3
+10 - Conditional Expressions and Procedures
+	(1280, 720) | 01 - Conditional Expressions and Procedures Introduction.mp4
+	(1280, 720) | 02 - Case.mp4
+	(1280, 720) | 03 - Case Challenge Task.mp4
+	(1280, 720) | 04 - Coalesce.mp4
+	(1280, 720) | 05 - Cast.mp4
+	(1280, 720) | 06 - Nullif.mp4
+	(1280, 720) | 07 - Views.mp4
+	(1280, 720) | 08 - Import And Export.mp4
+11 - Extra PostGreSQL with Python
+	(1920, 1080) | 02 - Psycopg2 Example Usage.mp4
+12 - BONUS SECTION THANK YOU
